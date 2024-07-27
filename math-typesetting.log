@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.7.28)  28 JUL 2024 06:41
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.7.28)  28 JUL 2024 06:45
  restricted system commands enabled.
 **math-typesetting.tex
 (./math-typesetting.tex
@@ -202,6 +202,146 @@ ex))) (/usr/local/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
 Excluding comment 'comment') Excluding 'comment' comment.
 luaotfload | cache : Lookup cache loaded from /usr/local/texlive/2024/texmf-var/
 luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 23 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 24 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script dflt
+ with language dflt
+
+Package fontspec Info: 
+(fontspec)             Font family 'Lato(0)' created for font 'Lato' with
+(fontspec)             options [Ligatures=TeX,default].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:Lato:mode=node;script=latn;language=dflt;+tlig;
+"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"name:Lato/B:mode=node;script=latn;language=dflt;+tli
+g;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:Lato/I:mode=node;script=latn;language=dflt;+tli
+g;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"name:Lato/BI:mode=node;script=latn;language=dflt;+tl
+ig;"
+
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 33 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 35 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 36 (nil) does not define feature smcp for script dflt
+ with language dflt
+
+Package fontspec Info: 
+(fontspec)             Font family 'Lato(1)' created for font 'Lato' with
+(fontspec)             options [Renderer=Basic,default].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:Lato:mode=base;script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"name:Lato/B:mode=base;script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:Lato/I:mode=base;script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"name:Lato/BI:mode=base;script=latn;language=dflt;"
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Lato(1)/m/n on input line 17.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Lato(1)/m/it on input line 17.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Lato(1)/b/n on input line 17.
 
 Package fontspec Info: 
 (fontspec)             Font family 'LeteSansMath(0)' created for font 'Lete
@@ -246,15 +386,15 @@ etex;+ssty=1;"
 =xetex;"
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 16.
+(Font)              `operators' in the math version `normal' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/LeteSansMath(1)/m/n on input line 16
+(Font)                  OT1/cmr/m/n --> TU/LeteSansMath(1)/m/n on input line 19
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 16.
+(Font)              `operators' in the math version `bold' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LeteSansMath(1)/b/n on input line 1
-6.
+9.
 
 Package fontspec Info: 
 (fontspec)             Font family 'LeteSansMath(2)' created for font 'Lete
@@ -282,15 +422,15 @@ etex;mathfontdimen=tex2;+ssty=1;"
 =xetex;mathfontdimen=tex2;"
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 16.
+(Font)              `symbols' in the math version `normal' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/LeteSansMath(2)/m/n on input line 1
-6.
+9.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 16.
+(Font)              `symbols' in the math version `bold' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/LeteSansMath(2)/b/n on input line 1
-6.
+9.
 
 Package fontspec Info: 
 (fontspec)             Font family 'LeteSansMath(3)' created for font 'Lete
@@ -319,51 +459,44 @@ etex;mathfontdimen=tex3;+ssty=1;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-6.
+9.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/LeteSansMath(3)/m/n on input line 1
-6.
+9.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 16.
+(Font)              `largesymbols' in the math version `bold' on input line 19.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/LeteSansMath(3)/b/n on input line 1
-6.
+9.
 
 (./math-typesetting.aux)
 \openout1 = math-typesetting.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  TU/LeteSansMath(1)/m/n --> TU/lmr/m/n on input line 17.
-
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 17.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 17.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 17.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 20.
 
 
 [1
@@ -377,20 +510,20 @@ L3 programming layer <2024-05-27>
 )
 
 Here is how much of LuaTeX's memory you used:
- 8116 strings out of 475915
+ 8159 strings out of 475915
  100000,1977958 words of node,token memory allocated
  488 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 52 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 2:28,3:16,4:2,5:42,6:4,7:380,8:6,9:38,10:1,11:22
- 30734 multiletter control sequences out of 65536+600000
- 34 fonts using 10555075 bytes
- 86i,5n,89p,270b,214s stack positions out of 10000i,1000n,20000p,200000b,200000s
+   avail lists: 2:28,3:16,4:2,5:68,6:4,7:384,8:6,9:38,10:1,11:22
+ 30777 multiletter control sequences out of 65536+600000
+ 55 fonts using 20750091 bytes
+ 86i,5n,93p,270b,221s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lete-sans-math/LeteSan
 sMath.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lete-sans-ma
-th/LeteSansMath.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm
-/lmroman10-regular.otf>
-Output written on math-typesetting.pdf (1 page, 8654 bytes).
+th/LeteSansMath.otf></usr/local/texlive/2024/texmf-dist/fonts/truetype/typoland/
+lato/Lato-Regular.ttf>
+Output written on math-typesetting.pdf (1 page, 18341 bytes).
 
 PDF statistics: 29 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
