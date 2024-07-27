@@ -1,13 +1,15 @@
 \documentclass{article}
 \usepackage{fontspec}
-\setmainfont{Montserrat}[
-Path = \string./fonts/Montserrat/static/,
+\usepackage{unicode-math}
+\setmainfont{Lato}[
+Path = \string./fonts/Lato/,
 Extension = .ttf,
-UprightFont = *-regular,
-ItalicFont = *-Italic,
-BoldFont = *-Bold,
-BoldItalicFont = *-BoldItalic
+UprightFont = *-Thin,
+ItalicFont = *-ThinItalic,
+BoldFont = *-Light,
+BoldItalicFont = *-LightItalic
 ]
+\setmathfont{Lete Sans Math}
 \begin{document}
 
 The well known Pythagorean theorem \(x^2 + y^2 = z^2\) was 
